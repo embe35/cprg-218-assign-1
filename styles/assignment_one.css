@@ -5,27 +5,5 @@
 }
 
 .card {
- flex: 1 1 384px;
+    flex: 1 1 384px;
 }
-
-/* 
-@media (width < 768px) {
-    .card {
-        width: 100%;
-    }
-}
-
-@media (1200px > width > 768px) {
-    .card {
-        width: 49%;
-    }
-    .card:last-child {
-        width: 100%
-    }
-}
-
-@media (width > 1200px) {
-    .card {
-        width: 32%;
-    }
-} */
